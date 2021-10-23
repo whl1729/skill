@@ -12,3 +12,5 @@
 - 沟通能力
 - 管理能力
 - [编程能力](programming)
+- [阅读能力](reading)
+- [搜索能力](surfing)
