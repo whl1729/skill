@@ -25,3 +25,8 @@
 ## 学习能力
 
 - [如何入门哲学](learning/get_started_with_philosophy.md)
+
+## 编程能力
+
+- [数据库学习进度](programming/database_learning_schedule.md)
+- [前端学习进度](programming/frontend_learning_schedule.md)
