@@ -2,6 +2,7 @@
 
 ## 复习
 
+- [ ] 2023-02-15 记忆 js `module.exports` 语法
 - [ ] 2023-02-14 实现 time limited promise
 - [ ] 2023-02-14 使用 mocha 来编写 js 测试用例
 
