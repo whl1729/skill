@@ -26,13 +26,15 @@
 
 ## 记忆能力
 
-- [记忆术训练进度](mnemonics/schedule_of_learning_mnemonics.md)
+- [记忆术学习进度](mnemonics/schedule_of_learning_mnemonics.md)
 
 ## 英语能力
 
 ## 自控能力
 
 ## 足球能力
+
+- [足球学习进度](football/schedule_of_learning_football.md)
 
 ## 阅读能力
 
