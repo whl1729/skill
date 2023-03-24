@@ -22,8 +22,6 @@
 ## 编程能力
 
 - [编程学习进度](programming/schedule_of_learning_programming.md)
-- [数据库学习进度](programming/database_learning_schedule.md)
-- [前端学习进度](programming/frontend_learning_schedule.md)
 
 ## 记忆能力
 
@@ -49,5 +47,6 @@
 
 ## 学习能力
 
+- [Kenneth Lee 的学习方法](learning/kenneth_lee_learning_method.md)
 - [如何入门哲学](learning/get_started_with_philosophy.md)
 
