@@ -30,6 +30,8 @@
 
 ## 英语能力
 
+- [英语学习进度](english/schedule_of_learning_english.md)
+
 ## 自控能力
 
 ## 足球能力
