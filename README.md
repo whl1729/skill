@@ -1,16 +1,20 @@
 # 技能
 
-本仓库用来记录我学习一些技能的过程。包括但不限于：
+本仓库用来记录我学习一些知识与技能的过程。包括但不限于：
 
 - [编程能力](programming)
 - [记忆能力](mnemonics)
 - [英语能力](english)
 - [自控能力](willpower)
+- [数学能力](math)
+- [科学素养](science)
+- [历史素养](history)
+- [哲学素养](philosophy)
+- [AI技能](ai)
 - [足球能力](football)
 - [阅读能力](reading)
 - [搜索能力](surfing)
 - [学习能力](learning)
-- 推理能力
 - 思考能力
 - 决策能力
 - 创新能力
@@ -34,6 +38,10 @@
 ## 自控能力
 
 - [自控力学习进度](willpower/schedule_of_learning_willpower.md)
+
+## 历史素养
+
+- [历史学习进度](history/schedule_of_learning_history.md)
 
 ## 足球能力
 
