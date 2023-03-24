@@ -21,6 +21,7 @@
 
 ## 编程能力
 
+- [编程学习进度](programming/schedule_of_learning_programming.md)
 - [数据库学习进度](programming/database_learning_schedule.md)
 - [前端学习进度](programming/frontend_learning_schedule.md)
 
