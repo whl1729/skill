@@ -34,6 +34,8 @@
 
 ## 自控能力
 
+- [自控力学习进度](willpower/schedule_of_learning_willpower.md)
+
 ## 足球能力
 
 - [足球学习进度](football/schedule_of_learning_football.md)
