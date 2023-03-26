@@ -8,6 +8,7 @@
 - [编程能力](programming)
 - [英语能力](english)
 - [数学能力](math)
+- [心理学素养](psychology)
 - [科学素养](science)
 - [技术素养](technology)
 - [历史素养](history)
@@ -55,6 +56,10 @@
 ## 哲学素养
 
 - [哲学学习进度](philosophy/schedule_of_learning_philosophy.md)
+
+## AI技能
+
+- [AI学习进度](ai/schedule_of_learning_ai.md)
 
 ## 足球能力
 
