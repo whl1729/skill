@@ -8,6 +8,7 @@
 - [自控能力](willpower)
 - [数学能力](math)
 - [科学素养](science)
+- [技术素养](technology)
 - [历史素养](history)
 - [哲学素养](philosophy)
 - [AI技能](ai)
@@ -42,6 +43,10 @@
 ## 历史素养
 
 - [历史学习进度](history/schedule_of_learning_history.md)
+
+## 哲学素养
+
+- [哲学学习进度](philosophy/schedule_of_learning_philosophy.md)
 
 ## 足球能力
 
