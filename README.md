@@ -44,6 +44,10 @@
 
 - [数学学习进度](math/schedule_of_learning_math.md)
 
+## 科学素养
+
+- [科学学习进度](science/schedule_of_learning_science.md)
+
 ## 历史素养
 
 - [历史学习进度](history/schedule_of_learning_history.md)
