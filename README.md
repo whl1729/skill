@@ -13,6 +13,7 @@
 - [技术素养](technology)
 - [历史素养](history)
 - [哲学素养](philosophy)
+- [军事素养](military)
 - [AI技能](ai)
 - [足球能力](football)
 - [阅读能力](reading)
@@ -60,6 +61,10 @@
 ## 哲学素养
 
 - [哲学学习进度](philosophy/schedule_of_learning_philosophy.md)
+
+## 军事素养
+
+- [军事学习进度](military/schedule_of_learning_military.md)
 
 ## AI技能
 
