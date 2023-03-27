@@ -2,12 +2,17 @@
 
 ## 阅读
 
+### 2023
+
 - 2023-03-18 — 2023-03-23：读完 Willpower 前言和第1—2章
 - 2023-02-27 — 2023-03-16：读完 The Translator's Guide to Chinglish 第1章和第2章第1节
-- 2023-01-22 — 2023-01-23：复习 Harry Potter and the Chamber of Secrets 第6章单词
 - 2023-01-06 — 2023-01-20：读完 Harry Potter and the Chamber of Secrets 前6章
+
+### 2022
+
 - 2022-12-24 — 2023-01-05：重读 Harry Potter and the Philosopher's Stone 前6章
 - 2022-11-15 — 2022-12-23：读完 Harry Potter and the Philosopher's Stone
+- 2022-03-19 — 2022-04-30：读完《The Meaning of Life: A Reader》第1、5、6—19章
 
 ## 方法论
 
