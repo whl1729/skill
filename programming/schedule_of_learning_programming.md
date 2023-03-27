@@ -37,7 +37,6 @@
 - 2021-04-11 — 2021-05-06：阅读 Pro Git 第1—3章、第7章和第10章
 - 2021-01-26 — 2021-02-04：阅读 MDN HTML 文档
 
-
 ## 2020
 
 - 2020-08-23 — 2020-11-29：读完 Advanced Programming in the Unix Environment 前8章
