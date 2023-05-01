@@ -4,7 +4,8 @@
 
 ### 2023
 
-- 2023-03-18 — 2023-03-23：读完 Willpower 前言和第1—2章
+- 2023-04-10 — 2023-04-16：读完 The Willpower Instinct
+- 2023-03-18 — 2023-04-02：读完 Willpower
 - 2023-02-27 — 2023-03-16：读完 The Translator's Guide to Chinglish 第1章和第2章第1节
 - 2023-01-06 — 2023-01-20：读完 Harry Potter and the Chamber of Secrets 前6章
 
