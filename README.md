@@ -30,6 +30,10 @@
 
 - [记忆术学习进度](mnemonics/schedule_of_learning_mnemonics.md)
 
+## 思考能力
+
+- [思考能力学习进度](thinking/schedule_of_learning_thinking.md)
+
 ## 自控能力
 
 - [自控力学习进度](willpower/schedule_of_learning_willpower.md)
