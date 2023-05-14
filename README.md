@@ -2,6 +2,7 @@
 
 本仓库用来记录我学习一些知识与技能的过程。包括但不限于：
 
+- [创新能力](creativity)
 - [记忆能力](mnemonics)
 - [思考能力](thinking)
 - [自控能力](willpower)
@@ -20,11 +21,14 @@
 - [搜索能力](surfing)
 - [学习能力](learning)
 - 决策能力
-- 创新能力
 - 演讲能力
 - 写作能力
 - 沟通能力
 - 管理能力
+
+## 创新能力
+
+- [创新能力学习进度](creativity/schedule_of_learning_creativity.md)
 
 ## 记忆能力
 
