@@ -42,13 +42,14 @@
 ### Tip 资源
 
 - 经验教训
-- 极客时间
-- 拉钩、BOSS 直聘等网站的 JD
 - 计算机公开课资源
-- Linux manpage
-- Ubuntu Blog
-- ChatGPT
-- MIT Missing Semester
+- [每日网站][8]
+- [极客时间][9]
+- [拉钩][10]、[BOSS 直聘][11]等招聘网站的 JD
+- [MIT Missing Semester][12]
+- [Linux manpage][13]
+- [Ubuntu Blog][14]
+- [ChatGPT][15]
 
 ### Share 资源
 
@@ -61,4 +62,11 @@
   [5]: https://github.com/whl1729/solve
   [6]: https://github.com/whl1729/blog
   [7]: https://leetcode.com/
-  [8]: https://github.com/whl1729/surf/blob/main/website/daily_websites.md
+  [8]: https://gitee.com/whl1729/surf/blob/master/website/daily_websites.md
+  [9]: https://time.geekbang.org/
+  [10]: https://www.lagou.com/
+  [11]: https://www.zhipin.com/
+  [12]: https://missing.csail.mit.edu/
+  [13]: https://man7.org/linux/man-pages/
+  [14]: https://ubuntu.com/blog
+  [15]: https://openai.com/blog
