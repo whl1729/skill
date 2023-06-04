@@ -43,6 +43,7 @@
 
 - 经验教训
 - 计算机公开课资源
+- [CS自学指南][16]
 - [每日网站][8]
 - [极客时间][9]
 - [拉钩][10]、[BOSS 直聘][11]等招聘网站的 JD
@@ -70,3 +71,4 @@
   [13]: https://man7.org/linux/man-pages/
   [14]: https://ubuntu.com/blog
   [15]: https://openai.com/blog
+  [16]: https://csdiy.wiki/
