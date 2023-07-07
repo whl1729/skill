@@ -4,8 +4,10 @@
 - [编程待办事项][2]
 - [编程学习榜样][3]
 - [ARTS 活动][4]
+- [Tip 活动][5]
 
   [1]: ./schedule.md
   [2]: ./todo.md
   [3]: ./example/README.md
   [4]: ./arts/README.md
+  [5]: ./tip/README.md
