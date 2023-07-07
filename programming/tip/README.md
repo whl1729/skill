@@ -18,6 +18,7 @@
 
 ## 编程技巧学习资源
 
+- [《程序员练级攻略》分析笔记][11]
 - [CS自学指南][1]
 - [Roadmaps][2]
 - [每日网站][3]
@@ -39,3 +40,4 @@
   [8]: https://man7.org/linux/man-pages/
   [9]: https://ubuntu.com/blog
   [10]: https://openai.com/blog
+  [11]: https://gitee.com/whl1729/read/blob/main/method/programmer_improvement_guide/README.md
