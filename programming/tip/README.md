@@ -29,6 +29,13 @@
 - [Linux manpage][8]
 - [Ubuntu Blog][9]
 - [ChatGPT][10]
+- [Bash Reference Manual][12]
+- [The Python Language Reference][13]
+- [The Python Tutorial][14]
+- [Go Wiki][15]
+- [Go Documentation][16]
+- [Nodejs Guide][17]
+- [Rust Book][18]
 
   [1]: https://csdiy.wiki/
   [2]: https://roadmap.sh/
@@ -41,3 +48,10 @@
   [9]: https://ubuntu.com/blog
   [10]: https://openai.com/blog
   [11]: https://gitee.com/whl1729/read/blob/main/method/programmer_improvement_guide/README.md
+  [12]: https://www.gnu.org/software/bash/manual/bash.html
+  [13]: https://docs.python.org/3/reference/index.html
+  [14]: https://docs.python.org/3/tutorial/index.html
+  [15]: https://github.com/golang/go/wiki/
+  [16]: https://go.dev/doc/
+  [17]: https://nodejs.org/en/docs/guides
+  [18]: https://doc.rust-lang.org/book/
