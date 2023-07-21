@@ -2,6 +2,10 @@
 
 ## 2023-07
 
+### 2023-07-20
+
+- Python sorted、list.sort、reverse 的用法
+
 ### 2023-07-19
 
 1. Python chr 将数字转为字符，ord 将字符转为数字。（记忆：chr 即 char，ord 即 ordinal）
