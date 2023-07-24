@@ -2,9 +2,13 @@
 
 ## 2023-07
 
+### 2023-07-24
+
+1. ipython 和 gdb 执行 shell 命令：前面加上感叹号即可
+
 ### 2023-07-20
 
-- Python sorted、list.sort、reverse 的用法
+1. Python sorted、list.sort、reverse 的用法
 
 ### 2023-07-19
 
