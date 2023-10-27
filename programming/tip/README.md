@@ -18,6 +18,7 @@
 
 ## 编程技巧学习资源
 
+- [Linux 101 Hacks][20]
 - [python-socketio][19] 与 aiohttp 的联系
 - [《程序员练级攻略》分析笔记][11]
 - [CS自学指南][1]
@@ -57,3 +58,4 @@
   [17]: https://nodejs.org/en/docs/guides
   [18]: https://doc.rust-lang.org/book/
   [19]: https://python-socketio.readthedocs.io/en/latest/index.html
+  [20]: https://linux.101hacks.com/toc/
