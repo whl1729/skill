@@ -18,6 +18,9 @@
 
 ## 编程技巧学习资源
 
+- Sed and Awk 101 Hacks
+- Vim 101 Hacks
+- Bash 101 Hacks
 - [Linux 101 Hacks][20]
 - [python-socketio][19] 与 aiohttp 的联系
 - [《程序员练级攻略》分析笔记][11]
