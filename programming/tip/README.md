@@ -18,6 +18,7 @@
 
 ## 编程技巧学习资源
 
+- [高并发的哲学原理][21]
 - Sed and Awk 101 Hacks
 - Vim 101 Hacks
 - Bash 101 Hacks
@@ -62,3 +63,5 @@
   [18]: https://doc.rust-lang.org/book/
   [19]: https://python-socketio.readthedocs.io/en/latest/index.html
   [20]: https://linux.101hacks.com/toc/
+  [21]: https://pphc.lvwenhan.com/
+
