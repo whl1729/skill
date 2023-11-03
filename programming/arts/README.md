@@ -13,6 +13,7 @@
 - A
   - Algorithm Practice: 刷 LeetCode
   - Algorithm Theory: 学习算法（和数据结构）
+  - Automation: 学习自动化技术。包括：AI、机器人、自动驾驶、制造自动化等
 - R
   - Read_1: 阅读技术书籍
   - Read_2: 阅读非技术书籍
