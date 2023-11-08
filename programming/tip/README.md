@@ -18,6 +18,8 @@
 
 ## 编程技巧学习资源
 
+- [thoughtbot / til][23]
+- [jbranchaud / TIL][22]
 - [高并发的哲学原理][21]
 - Sed and Awk 101 Hacks
 - Vim 101 Hacks
@@ -64,4 +66,6 @@
   [19]: https://python-socketio.readthedocs.io/en/latest/index.html
   [20]: https://linux.101hacks.com/toc/
   [21]: https://pphc.lvwenhan.com/
+  [22]: https://github.com/jbranchaud/til
+  [23]: https://github.com/thoughtbot/til
 
