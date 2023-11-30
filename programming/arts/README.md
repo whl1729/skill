@@ -3,12 +3,13 @@
 本人决定从2023年5月1日（第18周）开始，每周进行 ARTS 活动打卡。
 
 2023年11月29日更新：本人决定取消 ARTS 活动，仅保留 Tip 活动。
-原因是我现在认为由问题和项目驱动的学习更加有效，因此现在改为每天进行 4S 活动。
-4S 的含义分别为 Skill, Solve, Software 和 Surf
+原因是我现在认为由问题和项目驱动的学习更加有效，因此现在改为每天进行 5S 活动。
+5S 的含义分别为 Skill, Software, Solve, Sport 和 Surf
 
 - Skill：提高技能
-- Solve: 解决问题
 - Software：开发软件
+- Solve: 解决问题
+- Sport: 运动
 - Surf：浏览资讯
 
 ## ARTS 打卡
