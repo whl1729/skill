@@ -18,6 +18,8 @@
 
 ## 编程技巧学习资源
 
+- [科技爱好者周刊][25]
+- [前端精读][24]
 - [thoughtbot / til][23]
 - [jbranchaud / TIL][22]
 - [高并发的哲学原理][21]
@@ -45,6 +47,8 @@
 - [Nodejs Guide][17]
 - [Rust Book][18]
 
+  [25]: https://github.com/ruanyf/weekly
+  [24]: https://github.com/ascoders/weekly
   [1]: https://csdiy.wiki/
   [2]: https://roadmap.sh/
   [3]: https://gitee.com/whl1729/surf/blob/master/website/daily_websites.md
