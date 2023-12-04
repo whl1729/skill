@@ -18,16 +18,24 @@
 
 ## 编程技巧学习资源
 
+### 书籍
+
+- UNIX Network Programming
+- UNIX Network Programming
+- High Performance MySQL
+- Advanced Programming in the Unix Environment
+- Sed and Awk 101 Hacks
+- Vim 101 Hacks
+- Bash 101 Hacks
+
+### 网站
+
 - [科技爱好者周刊][25]
 - [前端精读][24]
 - [thoughtbot / til][23]
 - [jbranchaud / TIL][22]
 - [高并发的哲学原理][21]
-- Sed and Awk 101 Hacks
-- Vim 101 Hacks
-- Bash 101 Hacks
 - [Linux 101 Hacks][20]
-- [python-socketio][19] 与 aiohttp 的联系
 - [《程序员练级攻略》分析笔记][11]
 - [CS自学指南][1]
 - [Roadmaps][2]
@@ -67,7 +75,6 @@
   [16]: https://go.dev/doc/
   [17]: https://nodejs.org/en/docs/guides
   [18]: https://doc.rust-lang.org/book/
-  [19]: https://python-socketio.readthedocs.io/en/latest/index.html
   [20]: https://linux.101hacks.com/toc/
   [21]: https://pphc.lvwenhan.com/
   [22]: https://github.com/jbranchaud/til
