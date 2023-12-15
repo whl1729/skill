@@ -30,6 +30,8 @@
 
 ### 网站
 
+- [System Design 101][27]
+- [The Book of Secret Knowledge][26]
 - [科技爱好者周刊][25]
 - [前端精读][24]
 - [thoughtbot / til][23]
@@ -55,6 +57,8 @@
 - [Nodejs Guide][17]
 - [Rust Book][18]
 
+  [27]: https://github.com/ByteByteGoHq/system-design-101
+  [26]: https://github.com/trimstray/the-book-of-secret-knowledge
   [25]: https://github.com/ruanyf/weekly
   [24]: https://github.com/ascoders/weekly
   [1]: https://csdiy.wiki/
