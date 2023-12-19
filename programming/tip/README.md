@@ -30,6 +30,7 @@
 
 ### 网站
 
+- [The Data Engineering Handbook][28]
 - [System Design 101][27]
 - [The Book of Secret Knowledge][26]
 - [科技爱好者周刊][25]
@@ -57,6 +58,7 @@
 - [Nodejs Guide][17]
 - [Rust Book][18]
 
+  [28]: https://github.com/DataEngineer-io/data-engineer-handbook
   [27]: https://github.com/ByteByteGoHq/system-design-101
   [26]: https://github.com/trimstray/the-book-of-secret-knowledge
   [25]: https://github.com/ruanyf/weekly
