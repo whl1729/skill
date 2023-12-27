@@ -30,6 +30,7 @@
 
 ### 网站
 
+- [System Design - Karan Pratap Singh][29]
 - [The Data Engineering Handbook][28]
 - [System Design 101][27]
 - [The Book of Secret Knowledge][26]
@@ -58,6 +59,7 @@
 - [Nodejs Guide][17]
 - [Rust Book][18]
 
+  [29]: https://github.com/karanpratapsingh/system-design?tab=readme-ov-file
   [28]: https://github.com/DataEngineer-io/data-engineer-handbook
   [27]: https://github.com/ByteByteGoHq/system-design-101
   [26]: https://github.com/trimstray/the-book-of-secret-knowledge
