@@ -30,6 +30,11 @@
 
 ### 网站
 
+- [Path to Senior Engineer handbook][34]
+- [tech-interview-handbook][33]
+- [free-programming-books][32]
+- [freeCodeCamp][31]
+- [build-your-own-x][30]
 - [System Design - Karan Pratap Singh][29]
 - [The Data Engineering Handbook][28]
 - [System Design 101][27]
@@ -59,6 +64,11 @@
 - [Nodejs Guide][17]
 - [Rust Book][18]
 
+  [34]: https://github.com/jordan-cutler/path-to-senior-engineer-handbook
+  [33]: https://github.com/yangshun/tech-interview-handbook
+  [32]: https://github.com/EbookFoundation/free-programming-books
+  [31]: https://github.com/freeCodeCamp/freeCodeCamp
+  [30]: https://github.com/codecrafters-io/build-your-own-x
   [29]: https://github.com/karanpratapsingh/system-design?tab=readme-ov-file
   [28]: https://github.com/DataEngineer-io/data-engineer-handbook
   [27]: https://github.com/ByteByteGoHq/system-design-101
