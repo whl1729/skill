@@ -30,6 +30,7 @@
 
 ### 网站
 
+- [the-art-of-command-line][35]
 - [Path to Senior Engineer handbook][34]
 - [tech-interview-handbook][33]
 - [free-programming-books][32]
@@ -64,6 +65,7 @@
 - [Nodejs Guide][17]
 - [Rust Book][18]
 
+  [35]: https://github.com/jlevy/the-art-of-command-line
   [34]: https://github.com/jordan-cutler/path-to-senior-engineer-handbook
   [33]: https://github.com/yangshun/tech-interview-handbook
   [32]: https://github.com/EbookFoundation/free-programming-books
