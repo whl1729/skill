@@ -30,7 +30,7 @@
 
 ### 网站
 
-- [Interview Question MongoDB][w37]
+- [A Philosophy of Software Design][w37]
 - [The Linux Documentation Project][w36]
 - [the-art-of-command-line][w35]
 - [Path to Senior Engineer handbook][w34]
@@ -67,6 +67,7 @@
 - [Nodejs Guide][w17]
 - [Rust Book][w18]
 
+  [w37]: https://go7hic.github.io/A-Philosophy-of-Software-Design/#/
   [w36]: https://tldp.org/
   [w35]: https://github.com/jlevy/the-art-of-command-line
   [w34]: https://github.com/jordan-cutler/path-to-senior-engineer-handbook
