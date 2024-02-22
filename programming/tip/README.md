@@ -30,6 +30,7 @@
 
 ### 网站
 
+- [charlax / professional-programming][w38]
 - [A Philosophy of Software Design][w37]
 - [The Linux Documentation Project][w36]
 - [the-art-of-command-line][w35]
@@ -67,6 +68,7 @@
 - [Nodejs Guide][w17]
 - [Rust Book][w18]
 
+  [w38]: https://github.com/charlax/professional-programming
   [w37]: https://go7hic.github.io/A-Philosophy-of-Software-Design/#/
   [w36]: https://tldp.org/
   [w35]: https://github.com/jlevy/the-art-of-command-line
