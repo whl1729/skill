@@ -30,6 +30,7 @@
 
 ### 网站
 
+- [CheatSheet.zip: Quick Reference][w40]
 - [ashishps1 / awesome-system-design-resources][w39]
 - [charlax / professional-programming][w38]
 - [A Philosophy of Software Design][w37]
@@ -69,6 +70,7 @@
 - [Nodejs Guide][w17]
 - [Rust Book][w18]
 
+  [w40]: https://cheatsheets.zip/
   [w39]: https://github.com/ashishps1/awesome-system-design-resources
   [w38]: https://github.com/charlax/professional-programming
   [w37]: https://go7hic.github.io/A-Philosophy-of-Software-Design/#/
