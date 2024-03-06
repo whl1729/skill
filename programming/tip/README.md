@@ -30,6 +30,7 @@
 
 ### 网站
 
+- [Quick Reference （中文版）][w41]
 - [CheatSheet.zip: Quick Reference][w40]
 - [ashishps1 / awesome-system-design-resources][w39]
 - [charlax / professional-programming][w38]
@@ -70,6 +71,7 @@
 - [Nodejs Guide][w17]
 - [Rust Book][w18]
 
+  [w41]: https://wangchujiang.com/reference/
   [w40]: https://cheatsheets.zip/
   [w39]: https://github.com/ashishps1/awesome-system-design-resources
   [w38]: https://github.com/charlax/professional-programming
@@ -112,6 +114,6 @@
 
 ### 博客
 
-- [Interview Question MongoDB][b37]
+- [Interview Question MongoDB][b1]
 
   [b1]: https://dev.to/avinashrepo/interview-question-mongodb-2oii
