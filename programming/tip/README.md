@@ -30,6 +30,7 @@
 
 ### 网站
 
+- [Tech Interview Handbook][w43]
 - [DevOps Roadmap 2024][w42]
 - [Quick Reference （中文版）][w41]
 - [CheatSheet.zip: Quick Reference][w40]
@@ -72,6 +73,7 @@
 - [Nodejs Guide][w17]
 - [Rust Book][w18]
 
+  [w43]: https://github.com/yangshun/tech-interview-handbook
   [w42]: https://github.com/milanm/DevOps-Roadmap
   [w41]: https://wangchujiang.com/reference/
   [w40]: https://cheatsheets.zip/
