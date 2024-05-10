@@ -21,6 +21,8 @@
 - [学习能力](learning/README.md)
 - [写作能力](writing/README.md)
 - [仿真能力](sim/README.md)
+- [营养师技能](nutrition/README.md)
+- [花式足球技能](freestyle_football/README.md)
 - 搜索能力
 - 决策能力
 - 演讲能力
